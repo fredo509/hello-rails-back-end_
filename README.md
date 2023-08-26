@@ -26,9 +26,9 @@
 # 📖 Hello-React-On-Rails <a name="about-project">Hello-React-On-Rails</a>
 
 ## Welcome to Hello-react-on-rails
-[Link to frontend]("https://github.com/fredo509/hello-react-front-end_/tree/setup")
-Hello-rails-backend is an api app that display a random greeting.
 
+Hello-rails-backend is an api app that display a random greeting.
+[Link to frontend](https://github.com/fredo509/hello-react-front-end_/tree/setup)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
